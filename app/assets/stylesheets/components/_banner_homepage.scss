@@ -1,0 +1,24 @@
+section.banner {
+  width: 100vw;
+  height: 40vh;
+  background-color: #39ADB5;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding-left: 2rem;
+}
+
+.banner h1, h3, h5 {
+  color: #fff;
+  font-family: 'Inika', sans-serif;
+}
+
+.banner h1 {
+  font-size: 5rem;
+  font-weight: 900;
+  margin-bottom: 1rem;
+}
+
+.banner h3 {
+  font-size: 2.5rem;
+}
